@@ -14,7 +14,7 @@
     <AnalysisLevel>latest</AnalysisLevel>
     
     <StartupObject>RadeonSoftwareSlimmer.App</StartupObject>
-    <NeutralLanguage>en-US</NeutralLanguage>
+    <NeutralLanguage>zh-CN</NeutralLanguage>
 
     <Product>Radeon Software Slimmer</Product>
     <!--File Description-->
